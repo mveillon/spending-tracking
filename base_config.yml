@@ -3,8 +3,8 @@ globals:
   # CHANGE ME
   YEARLY_TAKE_HOME_PAY:
     # ... previous years up here
-    "2024": 0   # how much you made in 2024, after taxes
-    "2025": 0   # the same, but for 2025
+    "2025": 0   # how much you made in 2024, after taxes
+    "2026": 0   # the same, but for 2026
     # ... future years down here
   # --------------------------------------------------------------------
 
